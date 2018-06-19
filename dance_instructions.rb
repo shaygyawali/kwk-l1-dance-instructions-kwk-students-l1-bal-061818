@@ -1,5 +1,6 @@
 
 # Code your methods below
+def gagnam_style
 def skip_step("starting_foot")
   puts "Lower #{starting_foot} to the ground"
   puts "Bounce #{starting_foot} back up slightly, kicking it a few inches back"
@@ -15,7 +16,8 @@ def base_footwork
   puts "Return right foot to the ground"
   skip_step("Left foot")
 end
+end
 
-base_footwork
+gangnam_style
 
   
