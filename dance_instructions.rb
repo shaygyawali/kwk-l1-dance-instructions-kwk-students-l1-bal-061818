@@ -16,4 +16,6 @@ def base_footwork
   skip_step("Left foot")
 end
 
+base_footwork
+
   
