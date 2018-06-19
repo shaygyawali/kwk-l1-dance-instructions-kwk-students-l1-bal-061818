@@ -14,7 +14,7 @@ def gangnam_style
   def base_footwork
     puts "Lift right foot"
     puts "Return right foot to the ground"
-  skip_step("Left foot")
+    skip_step("Left foot")
   end
 end
 
