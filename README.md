@@ -140,3 +140,4 @@ particular element of the dance.
 2. Then, call the methods at the end of `dance_instructions.rb`, ensuring they are
 called in the proper order. This will bring all the elements of the dance
 together, and we can do so in code very elegantly.
+
